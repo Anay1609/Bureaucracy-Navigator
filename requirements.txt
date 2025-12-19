@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+langchain
+langchain-community
+duckduckgo-search
+pypdf
+reportlab
+python-dotenv
+altair<6
